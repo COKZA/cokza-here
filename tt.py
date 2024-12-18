@@ -3,7 +3,7 @@ import shutil
 import sys
 from pathlib import Path
 
-print("{ZZzZzZzz}")
+print({ZZzZzZzz})
 ZZzZzZzz = "Hello"
 
 def add_to_startup(script_path=None):
